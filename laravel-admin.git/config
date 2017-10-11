@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/abrahamSN/laravel-admin.git
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://github.com/abrahamSN/laravel-admin.git
